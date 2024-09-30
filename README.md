@@ -1,1 +1,1 @@
-# Pymaceuticals
+I was able to write code with various resources at my disposal. Also had multiple tutoring sessions for this particular assignment that helped me get a better understanding of what was being asked to be done and how each code served its own purpose.
